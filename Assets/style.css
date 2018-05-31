@@ -1,0 +1,35 @@
+button{
+    color: black;
+    font: bold;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-size: 13px;
+    background-color: rgb(139, 216, 0.9);
+}
+
+#container{
+    background: rgb(139, 216, 0.9);
+    border: dashed;
+    height: 80px;
+    font-size: 30px;
+}
+
+body{
+    background-color: grey;
+    font-family: 'Bowlby One SC', cursive;
+    color: purple
+}
+
+header{
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+#search{
+    width: 180px;
+}
+
+#gifs-appear-hear{
+    display: inline-block;
+}
